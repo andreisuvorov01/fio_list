@@ -1,0 +1,19 @@
+﻿<Window x:Class="fio_validate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:fio_validate"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="imya" Height="50" Width="150" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="200,20,0,0" Background="Gray"/>
+            <TextBlock Text="введите имя" Height="20" Width="150" VerticalAlignment="Top" HorizontalAlignment="Left" TextAlignment="Center"  Margin="20,35,0,0"/>
+        <TextBox Name="familiya" Height="50" Width="150" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="200,0,0,100" Background="Gray"/>
+            <TextBlock Text="введите фамилию" Height="20" Width="150" VerticalAlignment="Center" HorizontalAlignment="Left" TextAlignment="Center"  Margin="20,0,0,100"/>
+        <TextBox Name="otchestvo" Height="50" Width="150" VerticalAlignment="Bottom" HorizontalAlignment="Left" Margin="200,0,0,120" Background="Gray"/>
+            <TextBlock Text="введите отчество" Height="20" Width="150" VerticalAlignment="Bottom" HorizontalAlignment="Left" TextAlignment="Center"  Margin="20,0,0,130"/>
+        <ListView Width="200" Height="300" Background="Gray" x:Name="list1" HorizontalAlignment="Right" Margin="0,0,30,100"/>
+        <Button Content="внести" Height="70" Width="700" VerticalAlignment="Bottom" Margin="30" Name="vnos" Click="vnos_Click"/>
+    </Grid>
+</Window>

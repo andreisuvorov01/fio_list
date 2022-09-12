@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\fio_validate\fio_validate\bin\Debug\fio_validate.exe.config
+C:\Users\user\source\repos\fio_validate\fio_validate\bin\Debug\fio_validate.exe
+C:\Users\user\source\repos\fio_validate\fio_validate\bin\Debug\fio_validate.pdb
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\App.g.cs
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate_MarkupCompile.cache
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate_MarkupCompile.lref
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.g.resources
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.Properties.Resources.resources
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.csproj.GenerateResource.cache
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.exe
+C:\Users\user\source\repos\fio_validate\fio_validate\obj\Debug\fio_validate.pdb
